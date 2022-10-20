@@ -35,4 +35,5 @@ body {
 .footer{
     font-size: 30px;
     color: grey;
+    text-align: right;
 }
